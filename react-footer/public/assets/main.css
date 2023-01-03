@@ -1,0 +1,22 @@
+*{
+    color: crimson;
+}
+
+.Readmore{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 17px;
+    color: black;
+}
+
+.main {
+    background-image: url('assets/css/image/bg2.png');
+}
+
+.text{
+    border-radius: 20px;
+    font-size: 13px;
+    color: azure;
+    background-color: black;
+    margin-left: 5px;
+}
